@@ -1,10 +1,10 @@
 <?php 
 
     class Model {
-        private $localhost  =   "localhost";
-        private $username   =   "root";
-        private $password;
-        private $database   =   "bookstore";
+        private $localhost  =   "s9xpbd61ok2i7drv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+        private $username   =   "uf47ielzjnu9002c";
+        private $password   =   "i9np2ci0gnr9lb64";
+        private $database   =   "msbbke5v0y0gthvp";
         private $conn;
         
         // Connecting to database
