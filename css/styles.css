@@ -1,0 +1,45 @@
+/* stylesheet */
+* {
+    margin: 0px;
+}
+body {
+    background-color: black;
+    color: white;
+}
+.wrap {
+    margin: auto 90px;
+}
+.wrapform {
+    margin: 0 auto;
+    width: 60%;
+    padding: 25px 50px;
+    border: 1px solid #e1e1e1;
+}
+.table-color {
+    background-color: aquamarine;
+    color: blue;
+}
+.rec-tbl {
+    padding: 25px 30px;
+}
+.title{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 15px 0px;
+}
+.form-wrap{
+    width: 50%;
+    margin: 5px auto;
+    padding: 10px 5px;
+}
+@media only screen and (max-width:600px) {
+    .wrap {
+        margin: auto 20px;
+    }
+    .wrapform {
+        margin: 0 auto;
+        width: 100%;
+        border: 1px solid #e1e1e1;
+    }
+}
