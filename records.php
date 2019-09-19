@@ -13,7 +13,7 @@
         </div>
         <div class="row rec-tbl">
             <div class="col-md-12">
-            
+            <div class="table-responsive">
                 <table class="table table-striped table-color">
                     <thead>
                         <tr>
@@ -54,6 +54,7 @@
                         ?>
                     </tbody>
                 </table>
+               </div>
             </div>
         </div>
     </div>
