@@ -18,8 +18,13 @@ body {
     color: #000000;
 }
 .table-color {
-    background-color: aquamarine;
-    color: blue;
+    background-color: #000000;
+}
+th {
+    color: #FFFFFF;
+}
+td {
+    color: Blue;
 }
 .rec-tbl {
     padding: 25px 30px;
