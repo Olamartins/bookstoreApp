@@ -18,7 +18,8 @@
                     </form>
                 </div>
                 <div class="row rec-tbl">
-                    <table class="table table-color table-responsive">
+                   <div class="table-responsive">
+                    <table class="table table-striped table-color">
                     <thead>
                         <tr>
                             <th>TITLE</th>
@@ -53,6 +54,7 @@
                             } ?>
                         </tbody>
                     </table>
+                    </div>
                 </div>
             </div>
         </div>
