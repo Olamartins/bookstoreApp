@@ -18,7 +18,7 @@
                     </form>
                 </div>
                 <div class="row rec-tbl">
-                    <table class="table">
+                    <table class="table table-color table-responsive">
                     <thead>
                         <tr>
                             <th>TITLE</th>
